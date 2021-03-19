@@ -10,8 +10,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/bishalr0y" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bishalr0y" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bishal-roy-59864a202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bishal-roy-59864a202" height="30" width="40" /></a>
+<a href="https://twitter.com/bishalr0y" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179342.svg?token=exp=1616174262~hmac=2e29bf0e8f2ba992b95fba00ecb3a8d0" alt="bishalr0y" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bishal-roy-59864a202" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616174447~hmac=b2cd34af169c83a2659e12639877c65a" alt="bishal-roy-59864a202" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
