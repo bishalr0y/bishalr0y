@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bishal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bishal</h1>
 <h3 align="center">An undergraduate Computer Science student who is into web dev and opensource</h3>
 
 <p align="center"> 
