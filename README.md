@@ -19,8 +19,8 @@
 </br>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=bishalr0y&show_icons=true&locale=en&theme=algolia" alt="bishalr0y" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=bishalr0y&show_icons=true&locale=en&theme=algolia" alt="bishalr0y" />
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalr0y&theme=algolia" alt="bishalr0y" /> 
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalr0y&theme=algolia" alt="bishalr0y" /> 
 </p>
