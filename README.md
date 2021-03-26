@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate Computer Science student who is into web dev and opensource</h3>
 
 <p align="center"> 
-  <img width="15%" src="https://komarev.com/ghpvc/?username=bishalr0y&label=Profile%20views&color=0e75b6&style=flat" alt="bishalr0y" /> 
+  <img width="15%" src="https://komarev.com/ghpvc/?username=bishalr0y&label=Profile%20views&color=99ff66&style=flat" alt="bishalr0y" /> 
   <a href="https://twitter.com/bishalr0y" target="blank"><img src="https://img.shields.io/twitter/follow/bishalr0y?logo=twitter&style=for-the-badge" alt="bishalr0y" /></a>
 </p>
 
