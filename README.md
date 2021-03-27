@@ -1,13 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bishal</h1>
 <h3 align="center">An undergraduate Computer Science student who is into web dev and opensource</h3>
-
-<p align="center"> 
-  <img width="15%" src="https://komarev.com/ghpvc/?username=bishalr0y&label=Profile%20views&color=99ff66&style=flat" alt="bishalr0y" /> 
-  <a href="https://twitter.com/bishalr0y" target="blank"><img src="https://img.shields.io/twitter/follow/bishalr0y?logo=twitter&style=for-the-badge" alt="bishalr0y" /></a>
-</p>
-
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bishalr0y" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179342.svg?token=exp=1616174262~hmac=2e29bf0e8f2ba992b95fba00ecb3a8d0" alt="bishalr0y" height="30" width="40" /></a>
