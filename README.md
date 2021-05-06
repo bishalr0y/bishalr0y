@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bishal</h1>
-<h3 align="center">An undergraduate Computer Science Engineering student who is into Web Development and Opensource</h3>
+<h3>An undergraduate Computer Science Engineering student who is into Web Development and Opensource</h3>
+
+<p align="center">
+  <img width="15%" src="source.gif">
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
