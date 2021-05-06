@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bishal</h1>
-<h3 align="center">An undergraduate Computer Science student who is into web dev and opensource</h3>
+<h3 align="center">An undergraduate Computer Science Engineering student who is into Web Development and Opensource</h3>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bishalr0y" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="bishalr0y" height="40" width="40" /></a>
