@@ -2,7 +2,7 @@
 <h3>An undergraduate Computer Science Engineering student who is into Web Development and Opensource</h3>
 
 <p align="center">
-  <img width="15%" src="source.gif">
+  <img width="25%" src="github.gif">
 </p>
 
 
