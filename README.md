@@ -9,7 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/bishalr0y" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="bishalr0y" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/bishal-roy-59864a202" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="bishal-roy-59864a202" height="55" width="55" /></a>
+<a href="https://linkedin.com/in/bishalr0y" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="bishal-roy-59864a202" height="55" width="55" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
