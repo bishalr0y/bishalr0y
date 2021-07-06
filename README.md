@@ -21,6 +21,3 @@
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=bishalr0y&show_icons=true&locale=en&theme=blueberry" alt="bishalr0y" />
 </p>
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalr0y&theme=blueberry" alt="bishalr0y" /> 
-</p>
