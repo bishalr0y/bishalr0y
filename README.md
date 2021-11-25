@@ -19,7 +19,3 @@
 </br>
 
 
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=bishalr0y&show_icons=true&locale=en&theme=blueberry" alt="bishalr0y" />
-</p>
