@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="55%" src="github.gif">
+  <img width="55%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
 
