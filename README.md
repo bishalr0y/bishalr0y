@@ -7,4 +7,5 @@
 - JavaScript
 - Node
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=bishalr0y&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/dmmulroy/github-readme-stats)
+[![Bishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishalr0y)](https://github.com/anuraghazra/github-readme-stats)
+
